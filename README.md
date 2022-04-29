@@ -1,4 +1,6 @@
-# CameraTransform
+# CameraTransform (modified by Stratologic)
+
+## Note: this repository is a fork of the original one and it simply changes the orientation matrix of the camera to respecting the convention presented here: https://en.wikipedia.org/wiki/Rotation_matrix
 
 [![Coverage](https://coveralls.io/repos/github/rgerum/cameratransform/badge.svg?branch=master)](https://coveralls.io/github/rgerum/cameratransform?branch=master)
 [![DOC](https://readthedocs.org/projects/cameratransform/badge/)](https://cameratransform.readthedocs.io)
